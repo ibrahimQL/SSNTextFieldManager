@@ -29,9 +29,9 @@
 /**
  Creates and returna a SSN object with the 3 components.
  
- @param areaNumber
- @param groupCode
- @param serialNumber
+ @param areaNumber Area number component of SSN
+ @param groupCode Group Code component of SSN
+ @param serialNumber Serial Number component of SSN
  
  @return A SSN Object
  */
